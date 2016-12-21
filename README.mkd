@@ -13,6 +13,20 @@ Solarized Colorscheme for Vim
 
 Developed by Ethan Schoonover <es@ethanschoonover.com>
 
+This is a fork that fixes the invisible black text
+--------------------------------------------------
+
+I tweaked to use base02 as background. That can be made a little darker and the
+base03 can be made a little brighter. This way vim looks reasonable and I can
+again read the dark gray text from various command line tools, e.g. mocha.
+
+I use the solarized palette in Konsole and that is where I then tweak those
+two colours futher. That's not terribly practical, but those tweaks depend
+so heavily on the display being used that it makes sense to do them locally
+on a case by case basis.
+
+Tommi Kyntola 2016-12-21
+
 Visit the [Solarized homepage]
 ------------------------------
 
